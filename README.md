@@ -1,4 +1,4 @@
-# Dockerfile Generator
+# Dockerfile Generator - Kishor
 
 The main goal of this module generate a Dockerfile in runtime from the input data which is a JSON document.
 
